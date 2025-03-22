@@ -9,7 +9,7 @@ I'm a passionate **developer**, **problem solver**, and **tech enthusiast** who 
 ## 🔥 About Me
 
 - 🎯 **Focus Areas:** Full-Stack Development, AI/ML, Data Science
-- 💡 **Currently Learning:** Artificial Intelligence and Data Science
+- 💡 **Currently Learning:** Data Structure and Algorithms
 - 🌱 **Currently Working on:** SereniMove (Airbnb Clone)
 - 🎯 **Goal:** To contribute to impactful projects and enhance my skills
 
